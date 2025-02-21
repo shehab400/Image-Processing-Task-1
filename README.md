@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![Checkerboard](images/checkerboard.png)
 
 ### Warped Checkerboard
-![Warped Checkerboard](images/warped_checkerboard.png)
+![Warped Checkerboard](images/wrapped_checkerboard.png)
 
 ### Histogram
 ![Histogram](images/histogram.png)
