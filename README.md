@@ -56,7 +56,7 @@ pip install numpy matplotlib
 3. Run the Python script:
 
 ```bash
-python checkerboard_task.py
+python main.py
 ```
 
 4. The script will:
