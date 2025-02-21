@@ -1,20 +1,16 @@
-Below is a `README.md` file for the task of generating a checkerboard image with smoothly changing colors, calculating its statistics, drawing its histogram, and creating a warped version of the checkerboard. This file provides an overview of the task, the code, and instructions for running it.
-
----
 
 # Checkerboard Image Generation Task
 
-This project involves generating a checkerboard image with smoothly changing colors, calculating its mean and standard deviation, drawing its histogram, and creating a warped version of the checkerboard. The implementation is done in Python using `numpy` for array operations and `matplotlib` for visualization.
+This Task involves generating a checkerboard image with smoothly changing colors, calculating its mean and standard deviation, drawing its histogram, and creating a warped version of the checkerboard. The implementation is done in Python using `numpy` for array operations and `matplotlib` for visualization.
 
 ---
 
 ## Table of Contents
 1. [Task Description](#task-description)
-2. [Code Overview](#code-overview)
-3. [Requirements](#requirements)
-4. [How to Run the Code](#how-to-run-the-code)
-5. [Output](#output)
-6. [License](#license)
+2. [Requirements](#requirements)
+3. [How to Run the Code](#how-to-run-the-code)
+4. [Output](#output)
+5. [License](#license)
 
 ---
 
@@ -23,8 +19,7 @@ This project involves generating a checkerboard image with smoothly changing col
 The task consists of the following steps:
 
 1. **Generate a Checkerboard Image**:
-   - Create a checkerboard pattern with smoothly changing colors using sine functions.
-   - The colors should transition smoothly across the image.
+   - Create a checkerboard pattern.
 
 2. **Calculate Mean and Standard Deviation**:
    - Compute the mean and standard deviation of the pixel values in the generated image.
@@ -37,24 +32,7 @@ The task consists of the following steps:
 
 ---
 
-## Code Overview
 
-The implementation is divided into the following functions:
-
-1. **`generate_checkerboard`**:
-   - Generates a checkerboard image with smoothly changing colors.
-   - Uses sine functions to create smooth color gradients.
-
-2. **`calculate_stats`**:
-   - Computes the mean and standard deviation of the pixel values in the image.
-
-3. **`draw_histogram`**:
-   - Plots the histogram of the pixel intensities using `matplotlib`.
-
-4. **`warp_checkerboard`**:
-   - Applies a warp effect to the checkerboard image using sinusoidal transformations.
-
----
 
 ## Requirements
 
