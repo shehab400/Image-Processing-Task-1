@@ -101,11 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Histogram
 ![Histogram](images/histogram.png)
-
----
-
-Feel free to modify and extend the code as needed. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
----
-
-This `README.md` file provides a comprehensive overview of the task and the code. You can customize it further to include additional details or instructions specific to your project. Let me know if you need further assistance!
