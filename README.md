@@ -1,7 +1,7 @@
 
 # Checkerboard Image Generation Task
 
-This Task involves generating a checkerboard image with smoothly changing colors, calculating its mean and standard deviation, drawing its histogram, and creating a warped version of the checkerboard. The implementation is done in Python using `numpy` for array operations and `matplotlib` for visualization.
+This Task involves generating a checkerboard image, calculating its mean and standard deviation, drawing its histogram, and creating a warped version of the checkerboard. The implementation is done in Python using `numpy` for array operations and `matplotlib` for visualization.
 
 ---
 
