@@ -33,7 +33,7 @@ Run the Jupyter Notebook to execute all steps.
 A **Bayer filter** is a color filter array used in digital cameras to capture RGB values. It follows an RGGB (Red-Green-Green-Blue) pattern where each pixel records only **one color**.
 
 ### How is Demosaicing Performed?
-Demosaicing uses **bilinear interpolation** (or other advanced methods) to estimate missing color values based on neighboring pixels.
+Demosaicing uses **linear interpolation** (or other advanced methods) to estimate missing color values based on neighboring pixels.
 
 ## Alternative Interpolation Methods
 - **Bilinear (Fast, used by OpenCV by default)**
